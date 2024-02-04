@@ -1,5 +1,5 @@
-﻿# learningFlutterFromScratch
+# learningFlutterFromScratch
 
-# Modules Covered
+## Modules Covered
 - [x] Variables, Constants, Data Types & Keywords
 - [ ] to be explored...
